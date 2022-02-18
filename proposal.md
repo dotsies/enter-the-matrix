@@ -1,6 +1,6 @@
 # Utilizing FTD data as a Prediction Metric
 
-##Description
+## Description
 On a bi weekly basis, market makers are required to report fail-to-deliver (FTD) data.
 
 Failure-to-deliver (FTD) refers to a situation where one party in a trading contract (whether it's shares, futures, options, or forward contracts) doesn't deliver on their obligation. Such failures occur when a buyer (the party with a long position) doesn't have enough money to take delivery and pay for the transaction at settlement.
@@ -13,13 +13,13 @@ In short, I want to use this publicly available data provided by the SEC to figu
 
 This project will be worked on solely by myself.
 
-##Data
+## Data
 
 The data can be obtained from [here.](https://www.sec.gov/data/foiadocsfailsdatahtm)
 
 This dataset cotains file date, CUSIP numbers (identifies each individual company), the ticker symbol, issuer name, price, and total number of fail-to-delivers.
 
-##Objective
+## Objective
 
 I will propose 3 questions/tasks:
 
